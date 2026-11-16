@@ -1,5 +1,5 @@
-# REGRESION LINEAL MULTIPLE- ANALISIS DE PRECIOS DE LAPTOPS
-##DESCRIPCION
+REGRESION LINEAL MULTIPLE- ANALISIS DE PRECIOS DE LAPTOPS
+DESCRIPCION
 Se desarrollo un model de regresion lineal multiple para predecir los precios de distintas laptops
 utilizando variables numericas del dataset https://www.kaggle.com/datasets/ironwolf437/laptop-price-dataset
 Las variables numericas utilizadas fueron:
